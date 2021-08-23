@@ -1,2 +1,3 @@
 # git_practice
-practicing git operaitons
+practicing git operations w/o having a clue ;-)
+
